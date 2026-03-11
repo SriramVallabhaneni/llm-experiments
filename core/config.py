@@ -11,7 +11,7 @@ MAX_TOKENS = 512
 ANTHROPIC_API_KEY = os.getenv("ANTHROPIC_API_KEY")
 
 # database
-DB_PATH = "data/readteam.db"
+DB_PATH = "data/redteam.db"
 
 # scoring thresholds
 THRESHOLDS = {
